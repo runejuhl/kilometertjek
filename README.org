@@ -1,0 +1,7 @@
+* kilometertjek
+Look up license plates from a given car model identifier using
+https://nummerpladeregister.dk/ and use the plates to look up detailed
+information from https://www.tjekbil.dk/.
+
+This can be used to e.g. get an idea of the average odometer count for a given
+car model to try to assess how durable the model is.
